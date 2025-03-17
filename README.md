@@ -25,7 +25,10 @@ Follow these steps to install the extension manually in Chrome:
 ### Step 2: Enable Developer Mode in Chrome
 
 1. Open Google Chrome.
-2. In the address bar, type: chrome://extensions/
+2. In the address bar, type: 
+```
+chrome://extensions/
+```
 
 and press Enter.
 3. In the top-right corner, toggle on "Developer mode".
